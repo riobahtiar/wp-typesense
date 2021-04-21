@@ -1,0 +1,2 @@
+# wp-typesense
+WordPress Typesense
