@@ -1,0 +1,16 @@
+{
+  "name": "riobahtiar/wp-typesense",
+  "description": "Supercharge WordPress Search with Typesense. Typesense is a fast, typo-tolerant search engine for building delightful search experiences.",
+  "type": "library",
+  "require": {
+    "typesense/typesense-php": "^4.5",
+    "php-http/curl-client": "^2.2"
+  },
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Rio Bahtiar",
+      "email": "riomyid@gmail.com"
+    }
+  ]
+}
