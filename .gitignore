@@ -9,6 +9,10 @@ auto-save-list
 tramp
 .\#*
 
+### Composer ###
+composer.phar
+/vendor/
+
 # Org-mode
 .org-id-locations
 *_archive
@@ -96,7 +100,6 @@ Temporary Items
 ### Node ###
 # Logs
 logs
-vendor
 *.log
 npm-debug.log*
 yarn-debug.log*
